@@ -1,0 +1,8 @@
+
+"ixscprp"
+{
+	"base"			"helix"
+	"title"			"SCP RP"
+	"author"		"SleepyMode, M3lon"
+	"menusystem"	"1"
+}
